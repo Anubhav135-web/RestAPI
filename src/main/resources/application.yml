@@ -1,0 +1,11 @@
+server:
+  port: 9091
+
+spring:
+ application:
+  name: RestApp2	
+
+app:
+ props:
+   welcomeMsg: Hi Anubhav Welcome To RestApi	
+   greetMsg: Good Evening Anubhav
